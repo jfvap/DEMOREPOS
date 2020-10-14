@@ -1,4 +1,8 @@
 line 1
 line 2
 line 3
+<<<<<<< HEAD
 line 5
+=======
+line 4
+>>>>>>> e6fe278ba371fabaf5198fa8858bafffcc03310d
