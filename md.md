@@ -1,0 +1,2 @@
+### Resp 1.
+o comando pull ( git pull origin <nome_barnch> ) trás a última versão disponivel no branch <nome_branch> do repositorio github remoto (na internet) para o repositorio local (no pc) associado ao .git.
